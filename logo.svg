@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Background circle -->
+  <circle cx="256" cy="256" r="256" fill="#e8f3ec"/>
+  
+  <!-- Pot body -->
+  <path d="M180 310 L195 400 Q256 420 317 400 L332 310 Z" fill="#c49a3c"/>
+  <!-- Pot rim -->
+  <rect x="170" y="298" width="172" height="22" rx="11" fill="#b8732a"/>
+  <!-- Pot highlight -->
+  <path d="M195 320 L200 390 Q220 400 240 402" stroke="rgba(255,255,255,0.2)" stroke-width="6" fill="none" stroke-linecap="round"/>
+  
+  <!-- Soil -->
+  <ellipse cx="256" cy="302" rx="86" ry="18" fill="#8b5e3c"/>
+  
+  <!-- Main stem -->
+  <path d="M256 298 Q252 240 248 180" stroke="#3d7d54" stroke-width="10" fill="none" stroke-linecap="round"/>
+  
+  <!-- Large left leaf -->
+  <path d="M250 230 Q200 190 170 150 Q210 155 240 200 Z" fill="#5a9e6f"/>
+  <path d="M250 230 Q200 190 170 150" stroke="#3d7d54" stroke-width="3" fill="none" stroke-linecap="round"/>
+  
+  <!-- Large right leaf -->
+  <path d="M252 200 Q305 160 340 120 Q308 140 264 185 Z" fill="#4a8e5f"/>
+  <path d="M252 200 Q305 160 340 120" stroke="#3d7d54" stroke-width="3" fill="none" stroke-linecap="round"/>
+
+  <!-- Small top leaf -->
+  <path d="M249 175 Q225 140 215 105 Q240 125 255 165 Z" fill="#6ab870"/>
+  <path d="M249 175 Q225 140 215 105" stroke="#3d7d54" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+
+  <!-- Top right leaf -->
+  <path d="M252 160 Q285 125 300 90 Q275 118 255 155 Z" fill="#5a9e6f"/>
+  
+  <!-- Water drops -->
+  <ellipse cx="175" cy="270" rx="7" ry="9" fill="#7aafc4" opacity="0.85"/>
+  <path d="M175 261 Q179 265 175 272 Q171 265 175 261Z" fill="#7aafc4" opacity="0.85"/>
+  
+  <ellipse cx="195" cy="255" rx="5" ry="7" fill="#7aafc4" opacity="0.7"/>
+  <path d="M195 248 Q199 252 195 258 Q191 252 195 248Z" fill="#7aafc4" opacity="0.7"/>
+</svg>
